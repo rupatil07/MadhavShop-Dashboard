@@ -140,25 +140,7 @@ Enable management to make informed strategic decisions based on real-time busine
 
 ### Main Dashboard
 
-*Add dashboard screenshot here*
-
-```markdown
-![Dashboard Preview](images/dashboard-preview.png)
-```
-
-### Sales Analysis View
-
-```markdown
-![Sales Analysis](images/sales-analysis.png)
-```
-
-### Customer Insights View
-
-```markdown
-![Customer Insights](images/customer-insights.png)
-```
-
----
+https://github.com/rupatil07/MadhavShop-Dashboard/blob/main/Screenshot%20MadhavShop%20Dashboard.png
 
 ## 🚀 How to Use
 
@@ -192,5 +174,5 @@ Enable management to make informed strategic decisions based on real-time busine
 
 ### Connect
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
+* LinkedIn: www.linkedin.com/in/rutuja-patil-046303288
+* GitHub: https://github.com/rupatil07
